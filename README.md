@@ -1,15 +1,9 @@
-# ProyectoFinalModulo2
-Proyecto de evaluación 2
+# Proyecto-Modulo2
 
-Grupo Sayayines
-Curso: 156-3
+Cod: 156-3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Integrantes:
-Gonzalo Godoy
-Yossie Muñoz
-Carlos Estay
 Gustavo Lima
-Vanessa Amaro
 
 Problemática y Requerimiento
 
@@ -27,8 +21,5 @@ y desplegarla cuando sea requerida.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-https://github.com/Gongodes
 https://github.com/FSJGus
-https://github.com/cfestay
-https://github.com/PomPooon
-https://github.com/Vamartcl0216
+
