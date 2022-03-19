@@ -2,7 +2,7 @@
 
 Cod: 156-3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Integrantes:
+
 Gustavo Lima
 
 Problemática y Requerimiento
